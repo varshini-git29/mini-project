@@ -1,2 +1,1 @@
-# mini-project
-Deep learning-based detection of lymph node metastasis in Pancreatic Ductal Adenocarcinoma (PDAC) using ResNet with an Attention Mechanism on CT scan images.
+A deep learning-based project for detecting lymph node metastasis in Pancreatic Ductal Adenocarcinoma (PDAC) from CT scan images. The project uses a ResNet architecture enhanced with an attention mechanism to improve feature extraction and classification performance. The model is trained and evaluated using medical imaging datasets, with performance measured through accuracy, precision, recall, F1-score, confusion matrix, and ROC curve.
